@@ -1,5 +1,5 @@
 ## ❗ Info
-FiveM Traffic Logger, logs every Incoming and Outgoing connection. 
+FiveM Network Logger, logs every Incoming and Outgoing connection. 
 Not detectable by any FiveM auth so its safe to use.
 
 IF YOU WANT TO BUILD IT YOURSELF CREATE A CUSTOM SERVER BUILD:
