@@ -1,5 +1,6 @@
 ## ❗ Info
 FiveM Traffic Logger, logs every Incoming and Outgoing connection. 
+Not detectable by any FiveM auth so its safe to use.
 
 ## ❓Usage
 Replace the "citizen-server-impl" from an normal FiveM Build with the given one. Download the normal [artifacts](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) here.
