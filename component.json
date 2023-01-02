@@ -1,0 +1,33 @@
+{
+	"name": "citizen:server:impl",
+	"version": "0.1.0",
+	"dependencies": [
+		"fx[2]",
+		"citizen:resources:core",
+		"citizen:scripting:core",
+		"citizen:server:instance",
+		"citizen:server:net",
+		"citizen:scripting:mono",
+		"vfs:impl:server",
+		"vendor:cpr",
+		"vendor:citizen_util",
+		"vendor:citizen_enet",
+		"vendor:curl",
+		"vendor:tbb",
+		"vendor:boost_random",
+		"vendor:linenoise",
+		"vendor:nng",
+		"vendor:lz4",
+		"vendor:glm",
+		"vendor:eastl",
+		"vendor:thread-pool-cpp",
+		"vendor:utfcpp",
+		"vendor:breakpad",
+		"vendor:prometheus-cpp",
+		"vendor:folly",
+		"vendor:concurrentqueue",
+		"vendor:xenium",
+		"vendor:rocksdb"
+	],
+	"provides": []
+}
